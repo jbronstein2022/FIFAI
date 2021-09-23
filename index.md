@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+### FIFAI
 
-You can use the [editor on GitHub](https://github.com/Eshaan-Lumba/FIFAI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Soccer is regarded as one of the most unpredictable sports globally, so building a model to accurately predict the scorelines, or at least the end results of Premier League matches is a challenging, yet exciting task. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There has been some success with predicting the results of soccer matches in the past using the Poisson distribution, but we aim to improve on this accuracy and take it a step further by predicting scorelines. 
 
-### Markdown
+We will try to use a more robust dataset along with a more optimized algorithm to improve upon previous results. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ideally, we would like to have an algorithm that can accurately predict the scoreline, and along with that the result of the game; we could even extend it by including the most likely goalscorers. 
 
-```markdown
-Syntax highlighted code block
+We acknowledge that predicting the exact scoreline of a Premier League is a very difficult problem, but if we could predict at least the result with an accuracy of above 50%, it would be a success. 
 
-# Header 1
-## Header 2
-### Header 3
+If we are able to build a successful model, we realise that it might lead to an increase in the amount of bets made on Premier League matches, leading to those consequences faced by excessive gambling. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eshaan-Lumba/FIFAI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

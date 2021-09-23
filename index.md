@@ -4,7 +4,7 @@ Soccer is regarded as one of the most unpredictable sports globally, so building
 
 There has been some success with predicting the results of soccer matches in the past using the Poisson distribution, but we aim to improve on this accuracy and take it a step further by predicting scorelines. 
 
-We will try to use a more robust dataset along with a more optimized algorithm to improve upon previous results. 
+We will try to use a more robust dataset with more datapoints along with a more optimized algorithm to improve upon previous results. 
 
 Ideally, we would like to have an algorithm that can accurately predict the scoreline, and along with that the result of the game; we could even extend it by including the most likely goalscorers. 
 

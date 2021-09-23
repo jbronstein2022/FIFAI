@@ -1,6 +1,6 @@
-### FIFAI
+# FIFAI
 
-# By Eshaan Lumba, Kenneth Ochieng, Jett Bronstein and Aidan Garton
+### By Eshaan Lumba, Kenneth Ochieng, Jett Bronstein and Aidan Garton
 
 Soccer is regarded as one of the most unpredictable sports globally, so building a model to accurately predict the scorelines, or at least the end results of English Premier League soccer matches is a challenging, yet exciting task. 
 

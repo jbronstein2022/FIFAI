@@ -30,4 +30,17 @@ In the article, the author used the Poisson Distribution and Poisson Regression 
 ### 4. Football Match Statistics Prediction using Artificial Neural Networks
 This paper discusses a soccer match statistics prediction NN framwork. The NN is trained with data from two Bundesliga teams (Bayern Munich and Borussia Dortmound). They analyze various input factors selected to help the Neural Net detect patterns and predict match statisitics such as the winning team, goals scored, and bookings. Their data shows that the Neural Net is able to predict the match statistics with a higher accuracy than an existing if-else case framework (Football Result Expert System (FRES) used to predict American soccer. According to their analysis, there are several key factors which affect the outcome of matches and a NN can be trained to learn from previous history to predict future outcomes. These factors include: transfer money spent by a team in a season, a team's UEFA co-effecient (for each team participating in the champions league), year of match, league rank, goals scored and conceded,  wins and losses , home advantage etc. They advice that each of these factors have certain limitations in their application and some teams generally have more data than others because of their length of participation in competitions. A few of these factors can also only be applied within a league in a single country. This paper could be useful to help guide our choices when considering the type of data we need for teams and also the labels we need to train a NN. In addition, we can learn from their backpropagation algorithm and normalization of data points for further improvement. 
 
+## Project Update 1
+
+### Software
+We will use a combination of PyTorch and FastAI: https://pytorch.org/, https://docs.fast.ai/
+
+### Our Dataset
+We will use a combination of "English Premier League stats 2019-2020" (https://www.kaggle.com/idoyo92/epl-stats-20192020?select=epl2020.csv), "2021-2022 Premier League Stats" (https://fbref.com/en/comps/9/Premier-League-Stats) and "English Premier League (football)" (https://datahub.io/sports-data/english-premier-league#readme).
+
+### Overview of project
+We want to use a recurrent neural network along with long short-term memory since we want to keep track of patterns and form. Our inputs will be a vector of floating point values (expected goals for and expected goals against for the home team for the particular game). We will be performing classification. Our algorithm will predict the most probable scoreline out of a multitude of options. Hence, our output will be a vector of floating point values that hold the probablility of the match ending in a given scoreline. 
+
+
+
 

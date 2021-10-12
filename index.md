@@ -4,6 +4,8 @@
 
 ## Introduction
 
+The Premier League is considered one of the most exciting soccer leagues in all of the world. Given soccer is the most popular sport in the world, premier league games are some of the most watched cable events in the world far surpassing all other sports. Like other mainstream sporting leagues, the Premier League attracts enermous attention within the gaming industry. However, there are a multiplicity of factors that makes predicting the victor of a Premier League match impossible...as of now. We, as a group, will construct a the first neural network to sucessfully predict the winner of Premier League matchs on a consistent basis.
+
 Soccer is regarded as one of the most unpredictable sports globally, so building a Nerual Networks model to accurately predict the scorelines, or at least the end results of English Premier League soccer matches is a challenging, yet exciting task. 
 
 There has been some success with predicting the results of soccer matches in the past using the Poisson distribution, but we aim to improve on this accuracy and take it a step further by predicting scorelines. 

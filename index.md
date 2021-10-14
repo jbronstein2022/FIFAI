@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The Premier League is considered one of the most exciting soccer leagues in all of the world. Given soccer is the most popular sport in the world, Premier League games are some of the most watched cable events in the world, far surpassing all other sports. Like other mainstream sporting leagues, the Premier League attracts enormous attention within the gaming industry. However, there are a multiplicity of factors that makes predicting the victor of a Premier League match impossible...as of now. We, as a group, will construct a comprehensive neural network to successfully predict the winner of Premier League matches on a consistent basis.
+The Premier League is considered one of the most exciting soccer leagues in all of the world. Given soccer is the most popular sport in the world, Premier League games are some of the most watched cable events in the world, far surpassing all other sports. Like other mainstream sporting leagues, the Premier League attracts enormous attention within the gaming industry. However, there are a multiplicity of factors that makes predicting the victor of a Premier League match impossible...as of now. We, as a group, will construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
 
 Soccer is regarded as one of the most unpredictable sports globally, so building a Neural Networks model to accurately predict the scorelines, or at least the end results of English Premier League soccer matches is a challenging, yet exciting task. 
 
@@ -35,7 +35,7 @@ This paper discusses a soccer match statistics prediction NN framwork. The NN is
 ## Project Update 1
 
 ### Software
-We will use a combination of PyTorch and FastAI: https://pytorch.org/, https://docs.fast.ai/
+We will use a combination of [PyTorch](https://pytorch.org/) and [FastAI](https://docs.fast.ai/)
 
 ### Our Dataset
 We will use a combination of "English Premier League stats 2019-2020" (https://www.kaggle.com/idoyo92/epl-stats-20192020?select=epl2020.csv), "2021-2022 Premier League Stats" (https://fbref.com/en/comps/9/Premier-League-Stats) and "English Premier League (football)" (https://datahub.io/sports-data/english-premier-league#readme).

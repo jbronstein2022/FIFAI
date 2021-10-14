@@ -10,13 +10,13 @@ Soccer is regarded as one of the most unpredictable sports globally, so building
 
 <!--There has been some success with predicting the results of soccer matches in the past using recurrent Neural Networks, but we aim to improve on this accuracy and take it a step further by predicting scorelines.-->
 
-We will try to use a more robust dataset with more datapoints along with a more optimized algorithm to improve upon previous results. 
+To improve upon the previous [results](https://link.springer.com/chapter/10.1007/978-981-15-9509-7_57), we will try to use a more robust dataset with more pre-game and post-game datapoints such as expected goals for and against along with a more optimized algorithm. Another key modification is that their results are outdated and do not continue to learn, whereas we want to keep our model as up to date as possible. This might mean reading data in from the last 3-4 years instead of the last 7-8 years. 
 
-Ideally, we would like to have an algorithm that can accurately predict the scoreline, and along with that, the result of the game; we could even extend it by including the most likely goalscorers. 
+Ideally, we would like to have an algorithm that can accurately predict the result upwards of 70% of the time. A key challenge is understanding exactly what datapoints matter the most and what matter the least. This is difficult to predict beforehand and trial and error with different sets of datapoints might lead us to improved algorithms. 
 
-We acknowledge that predicting the exact scoreline of a Premier League match is a very difficult problem, but if we could predict at least the result with an accuracy of above 50%, it would be a success. 
+We acknowledge that predicting the exact scoreline of a Premier League match is a very difficult problem, but we hope to succeed and improve on previous results. Ultimately, we would like to test our data on the current set of ongoing premier league matches to determine the success rate of our algorithm. A lot of factors can change as the form of teams changes throughout the season, but we are confident that we can build a strong model. 
 
-If we are able to build a successful model, we realise that it might lead to an increase in the amount of bets made on Premier League matches, leading to those consequences faced by excessive gambling. 
+If we are able to build a successful model, we realise that it might lead to an increase in the amount of bets made on Premier League matches, leading to those consequences faced by excessive gambling. For one, the number of bets might drastically increase with people taking higher risks. Clearly, if people are aware of the result of the game from beforehand for about 70% of the time, there is a lot of money to be made. Another issue that might surface is a lack of enjoyment in watching football. If people know the result beforehand, would they still enjoy watching the game as much? These are some questions and consequences we need to consider if we end up building a successful model. 
 
 ## Literature Review
 

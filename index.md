@@ -2,13 +2,13 @@
 
 ### By Eshaan Lumba, Kenneth Ochieng, Jett Bronstein and Aidan Garton
 
-## Introduction
+## Introduction Draft 1
 
-The Premier League is considered one of the most exciting soccer leagues in all of the world. Given soccer is the most popular sport in the world, Premier League games are some of the most watched cable events in the world, far surpassing all other sports. Like other mainstream sporting leagues, the Premier League attracts enormous attention within the gaming industry. However, there are a multiplicity of factors that makes predicting the victor of a Premier League match impossible...as of now. We, as a group, will construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
+The English Premier League is considered one of the most exciting soccer leagues in all of the world. Given soccer is the most popular sport in the world, Premier League games are some of the most watched cable events in the world, far surpassing all other sports. Like other mainstream sporting leagues, the Premier League attracts enormous attention within the gaming industry. However, there are a multiplicity of factors that makes predicting the victor of a Premier League match impossible...as of now. We, as a group, will construct a comprehensive neural network to successfully predict the result of Premier League matches on a consistent basis.
 
-Soccer is regarded as one of the most unpredictable sports globally, so building a Neural Networks model to accurately predict the scorelines, or at least the end results of English Premier League soccer matches is a challenging, yet exciting task. 
+Soccer is regarded as one of the most unpredictable sports globally, so building a Neural Network model to accurately predict the results of English Premier League soccer matches is a challenging, yet exciting task. 
 
-There has been some success with predicting the results of soccer matches in the past using the Poisson distribution, but we aim to improve on this accuracy and take it a step further by predicting scorelines. 
+<!--There has been some success with predicting the results of soccer matches in the past using recurrent Neural Networks, but we aim to improve on this accuracy and take it a step further by predicting scorelines.-->
 
 We will try to use a more robust dataset with more datapoints along with a more optimized algorithm to improve upon previous results. 
 

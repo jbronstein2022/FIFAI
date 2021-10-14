@@ -35,7 +35,7 @@ This paper discusses a soccer match statistics prediction NN framwork. The NN is
 ## Project Update 1
 
 ### Software
-We will use a combination of [PyTorch](https://pytorch.org/) and [FastAI](https://docs.fast.ai/)
+We will use a combination of [PyTorch](https://pytorch.org/) and [FastAI](https://docs.fast.ai/). 
 
 ### Our Dataset
 We will use a combination of ["English Premier League stats 2019-2020"](https://www.kaggle.com/idoyo92/epl-stats-20192020?select=epl2020.csv), ["2021-2022 Premier League Stats"](https://fbref.com/en/comps/9/Premier-League-Stats) and ["English Premier League (football)"](https://datahub.io/sports-data/english-premier-league#readme).
